@@ -1,0 +1,27 @@
+{
+  "name": "selenium-mocha-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hnamnguyen0112/selenium-mocha-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hnamnguyen0112/selenium-mocha-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Hnamnguyen0112/selenium-mocha-boilerplate#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^107.0.3",
+    "selenium-webdriver": "^4.6.0"
+  }
+}
